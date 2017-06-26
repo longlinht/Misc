@@ -1,0 +1,1 @@
+k2pdfopt  -j 0 -as -m 0.5 -odpi 120 -ws 0.05 -w 560 -h 735 -x -fc- $*
